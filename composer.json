@@ -1,0 +1,7 @@
+{
+    "name": "fw-micro/interfaces",
+    "license": "MIT",
+    "require": {
+        "php": "^7.1"
+    }
+}
