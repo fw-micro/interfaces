@@ -1,8 +1,8 @@
 <?php
 
-namespace fw\interfaces;
+namespace fw_micro\interfaces;
 
-use fw\pattern\CoR\Handler;
+use fw_micro\pattern\CoR\Handler;
 
 /**
  * Interface Bootstrap
