@@ -2,8 +2,7 @@
     "name": "fw_micro/interfaces",
     "license": "MIT",
     "require": {
-        "php": "^7.1",
-        "fw_micro/pattern": "^1"
+        "php": "^7.1"
     },
     "autoload": {
         "psr-4": {
